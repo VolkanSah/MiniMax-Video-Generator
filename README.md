@@ -20,12 +20,8 @@ A PHP application for generating videos using the Minimax API, supporting both t
 1. Clone the repository:
 
 
-2. Configure credentials:
-```bash
-cp config.example.php config.php
-```
 
-3. Edit `config.php` with your credentials:
+2. Edit `config.php` with your credentials:
 ```php
 return [
     'api_key' => 'your-api-key-here',
@@ -34,7 +30,7 @@ return [
 ];
 ```
 
-4. Create writable directory for videos:
+3. Create writable directory for videos:
 ```bash
 mkdir videos
 chmod 755 videos
