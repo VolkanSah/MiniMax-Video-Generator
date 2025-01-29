@@ -107,5 +107,5 @@ MIT License
 - Implement proper error logging
 
 For API documentation, see:  
-[Minimax API Docs](https://api.minimaxi.chat/document/guides/video-generation)
+[Minimax API Docs](https://minimaxi.com)
 
