@@ -18,10 +18,7 @@ A PHP application for generating videos using the Minimax API, supporting both t
 
 ## Installation
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/minimax-video-generator.git
-cd minimax-video-generator
-```
+
 
 2. Configure credentials:
 ```bash
