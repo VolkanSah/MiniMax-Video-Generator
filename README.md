@@ -1,4 +1,4 @@
-# Minimax Video Generation PHP Application (Beta) 
+# Minimax Video Generation PHP minimal Application (Beta) 
 
 A PHP application for generating videos using the Minimax API, supporting both text-to-video and image-to-video generation.
 
